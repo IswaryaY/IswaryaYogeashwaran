@@ -9,27 +9,13 @@
 def iswarya():
    
    topskills_and_its_proficiency={"Python": "Advance", "SQL": "Intermediate", "Machinelearning":"Advance", "Tableau": "Intermediate", "PowerBi":"Intermediate"}
-   
    other_skills_with_proficiency={"Hadoop":Intermediate,"Pig":"Intermediate", "Hive":"Intermediate", "Html_Css_Javascript":"Basic"}
-   
    Extra_technical_skills={"Statistics":"Intermediate","deep learning":"Intermediate", "AWS cloud service": "Basic"}
-   
    Tools=["tableau", "powerbi","mysql","mongoDB"]
-   
    Hacker_rank_stars=2
-   
    hobby_sudoko=True
-   
    print("Check the repositories for my projects")
-   
    return ∞
    
    
-   def anuj():
-  skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner'}
-  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
-  cloud_architecture = ['heroku', 'aws sagemaker']
-  kaggle_competitions = 3
-  active_blogger = True
-  return ∞
-
+  
